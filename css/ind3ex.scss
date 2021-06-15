@@ -1,0 +1,132 @@
+@import "compass/css3";
+
+*{
+  box-sizing: border-box;
+}
+
+
+body, html {
+  padding-top: 10px;
+height: 100%;
+margin: 0 auto;
+color: rgb(10, 1, 1);
+font-style: Bookman, "Times New Roman", serif;
+  scroll-behavior: smooth;
+  position: absolute;
+      width: 100%;
+      transform: translateY(var(--translateY));
+}
+
+
+#title{
+  width: 500px;
+  height: 40px;
+  margin-left: auto;
+  margin-right: auto;
+  background-image: url('logo.png');
+}
+
+
+* {
+	-webkit-transition-property: all;
+	-webkit-transition-duration: .2s;
+  -moz-transition-timing-function: cubic-bezier(100,50,21,6);
+	-moz-transition-property: all;
+  -moz-transition-timing-function: cubic-bezier(100,50,21,6);
+}
+
+body{
+  background:#1b1b2b;
+  text-align:center;
+  font-family: 'Oswald', sans-serif;
+}
+
+h1{
+  color:#c0c0c0;
+  font-weight:100;
+}
+
+#menu {
+
+   margin:20px;
+}
+
+.btn{
+  color:#999;
+  background:rgba(0, 0, 0, 0.5);
+  padding:10px 20px;
+  font-size:10px;
+  text-decoration:none;
+  letter-spacing:2px;
+  text-transform:uppercase;
+}
+
+.btn:hover{
+  transition: 0.5s;
+  border:none;
+  background:rgb(158, 158, 158);
+  padding:15px 20px;
+  color:#1b1b1b;
+}
+
+.footer{
+  font-size:8px;
+  color:#fff;
+  clear:both;
+  display:block;
+  letter-spacing:5px;
+  border:1px solid #fff;
+  padding:5px;
+  text-decoration:none;
+  width:210px;
+  margin:auto;
+  margin-top:400px;
+}
+
+.rct{
+  background-color:rgb(158, 158, 158);
+  width:100%;
+  
+  margin-left: auto;
+  margin-right: auto;
+  padding:20px;
+
+}
+
+.title{
+  margin-left: 10px;
+  margin-top: 100px;
+  font-size: 40px;
+  color: rgb(158, 158, 158);
+}
+
+
+
+/**/
+.parallax__stage {
+  height: 100vh;
+  left: 0;
+  overflow: auto;
+  position: absolute;
+  top: 0;
+  width: 100%;
+}
+.parallax__layer {
+  bottom: 0;
+  height: 100%;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0;
+  width: 100%;
+}
+
+$parallax__layers: 3;
+$parallax__amount: 1;
+@for $i from 0 through $parallax__layers {
+    $distance: -$parallax__amount * ($parallax__layers - $i);
+    .parallax__layer--#{$i}{
+        background-color: rgba(0,0,0,(1 + $i) / 10);
+        transform: translateZ($distance#{px});
+    }
+}
