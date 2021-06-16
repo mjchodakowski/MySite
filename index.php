@@ -4,14 +4,14 @@
 <head>
     <meta charset="UTF-8" />
     <title>Moje Porfolio</title>
+    <link rel="stylesheet" href="css/all.css">
     <link rel="stylesheet" href="css/index_mobile.css">
     <link rel="stylesheet" href="css/index.css">
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
     <script type="text/javascript" src="https://s.electerious.com/basicScroll/dist/basicScroll.min.js"></script>
-    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"
-        integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 </head>
 
 <body>
@@ -23,12 +23,14 @@
 
 
         <div id="test" class="scene" data-modifier="0" style="--translateY:0px;">
-            <div class="titleIMG"><div id="title"></div></div>
+            <div class="titleIMG">
+                <div id="title"></div>
+            </div>
             <div id="menu">
-                <a href="#sterted" class="btn">o mnie</a>
+                <a href="#sterted" class="btn">Poznaj moją krotką historię</a>
                 <a href="#experience" class="btn">Doświadczenie i projekty</a>
-                <a href="#cert" class="btn">Certyfikaty</a>
-                <a href="#wykształcenieID" class="btn">Wykrztałcenie</a>
+                <a href="#cert" class="btn">Hobby</a>
+                <a href="gallery/index.html" class="btn">Galeria</a>
                 <a href="#contact" class="btn">Kontakt</a>
             </div>
 
@@ -44,23 +46,65 @@
 
 
         <div id="sterted" style="margin-top: 50px;" class="rctmain">
-            <img src="css/my.png" id="myimage" alt="TitlePhoto">
+            <img src="1css/my.png" id="1myimage" alt="TitlePhoto">
 
-            
+
             <div id="startedID_Other">
-                <div id="stertedID">o mnie</div>
-                <div style="text-indent: 20px;">Jestem absolwentem Politechniki Częstochowskiej na Wydziale Inżynierii Mechanicznej i
-                Informatyki o kierunku Informatyka i specjalizacji Sieci Komputerowe a obecnie jestem  na drugim stopniu studiów magisterskich.
-                Od młodzieńczych lat zajmuje się tworzeniem układów elektronicznych oraz programowaniem  ich. Moimi pierwszymi projektami którymi zajomaweł się były tworzone przy pomocy Arduino
-                UNO z mikrokontrolerem Atmega 328. Wraz z chęcią tworzenia większych projektów i poznania  innych rodzajów technologi a zarazem ograniczeniami bedącymi w danym module. Zaczołem
-                twożyć przy pomocy płytki AT91SAM7X256 na mikrokotrolerze 32bitowym, dzięki czemu tworzyłem sterowniki np. pralek automatycznych.</br>
-                Wraz z rozpoczeciem studiów tworzyłem aplikacje internetowe. Podczas praktyk studenckich pracowałem
-                także nad aplikacją mobilną,  której zadaniem było stworzenie serwera do zarządzenia mikrokontrolerem z wbudowanym modułem GSM.
-                Aplikacja ta była tworzona przy   udziale edytora Visual Studio Code i wieloplatformowym środowisku Node.js z biblioteką React.
-            </div>
+                <div id="TitleOmnie">poznaj moją krotką historię</div>
+                <div style="text-indent: 20px;">
+
+                    <div class="divomnie">
+                        <div class="omnieClose"><img class="imgomnie" src="child.png"></div>
+                        <div class="omnieOpen">
+                            <div class="titlePomnie">narodziny</div>
+                            <div class="opisOmnie">Pewnego sierpniowego popołudnia 1991 roku, gdy internet w Polsce dopiero powstawał, przyszedł na świat pewien człowiek. Byłem nim ja…</div>
+                        </div>
+                    </div>
+
+                    <div class="divomnie">
+                    <div class="omnieClose"><img class="imgomnie" src="home.png"></div>
+                        <div class="omnieOpen">
+                            <div class="titlePomnie">DORASTAŁEM TUTAJ…</div>
+                            <div class="opisOmnie">Dorastałem na wschodzie Polski, w małej miejscowości na Lubelszczyźnie, która nazywa się Opole Lubelskie. W której zresztą nadal mieszkam i pracuję.</div>
+                        </div>
+                    </div>
+
+                    <div class="divomnie">
+                    <div class="omnieClose"><img class="imgomnie" src="child.png"></div>
+                        <div class="omnieOpen">
+                            <div class="titlePomnie">POCZĄTKI EDUKACJI</div>
+                            <div class="opisOmnie">Od samego początku interesowały mnie przedmioty ścisłe, w szczególności królowa nauk – matematyka. Poza tym zawsze fascynowała mnie astronomia i tajemnice kosmosu. Ten etap miał bardzo duży wpływ na dalsze życie. W gimnazjum rozpoczęła się moja przygoda z programowaniem i tworzeniem stron www. Pod tym linkiem zobaczysz jak wyglądała jedna z moich pierwszych stron. Miałem wtedy ok 15 lat, a na komputerach dominował „legendarny” Internet Explorer 6. Ileż on nerwów napsuł…
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="divomnie">
+                    <div class="omnieClose"><img class="imgomnie" src="child.png"></div>
+                        <div class="omnieOpen">
+                            <div class="titlePomnie">SZKOŁA ŚREDNIA</div>
+                            <div class="opisOmnie">W liceum (2007-2010) dalej skupiałem się głównie na przedmiotach ścisłych. Poza tym udało mi się opanować język angielski na przyzwoitym poziomie. Dzięki czemu mogę teraz szukać rozwiązań problemów na
+                                Stack Overflow i współpracować z osobami z zagranicy.A co się działo w informatyce? Ciągle podnosiłem swoje umiejętności programowania, głównie w PHP. Dodatkowo, od początku liceum, zacząłem zdobywać bezcenne doświadczenie.
+                                Nie zawsze współpraca przebiegała idealnie, ale doświadczenia te procentują teraz…
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="divomnie">
+                    <div class="omnieClose"><img class="imgomnie" src="child.png"></div>
+                        <div class="omnieOpen">
+                            <div class="titlePomnie">STUDIA</div>
+                            <div class="opisOmnie">Po szkole średniej przyszła pora na studia. Co studiowałem? Oczywiście informatykę, na Uniwersytecie Marii Curie-Skłodowskiej w Lublinie. Moje studiowanie trwało 3 lata
+                                i zostało zwieńczone udaną obroną pracy licencjackiej w 2013 roku. Tematem mojej pracy była „Aplikacja wspomagająca organizację pracy w przedsiębiorstwie”. Czy uważam to za stracony czas?
+                                Na pewno nie. Poza zdobytą wiedzą studia to pewne doświadczenia, które kształtują charakter i osobowość.</div>
+                        </div>
+                    </div>
+                </div>
             </div>
         </div>
-        
+
+
+
+
         <div style="clear:both"></div>
 
         <div id="experience" class="rct">
@@ -122,7 +166,7 @@
 
         </div>
 
-      
+
         <div id="projects" class="rct">
             <div id="wykształcenieID" class="title">Wykształcenie</div>
             <div class="text">
@@ -152,22 +196,19 @@
             <form class="form" id="contactForm" method="post" action="send-script.php">
                 <div class="form-row">
                     <label for="field-name">Name*</label>
-                    <input class="textity"  type="text" name="name" required id="field-name" data-error="Wypełnij to pole"
-                        pattern="[a-zA-ZąĄććęęłŁńŃóÓśŚżŻŹŹ ]+">
+                    <input class="textity" type="text" name="name" required id="field-name" data-error="Wypełnij to pole" pattern="[a-zA-ZąĄććęęłŁńŃóÓśŚżŻŹŹ ]+">
                 </div>
                 <div class="form-row">
                     <label for="field-email">Adres e-mail*</label>
-                    <input class="textity" type="email" name="email" required id="field-email" data-error="Wpisz poprawny email"
-                        pattern="[^@\s]+@[^@\s]+\.[^@\s]+">
+                    <input class="textity" type="email" name="email" required id="field-email" data-error="Wpisz poprawny email" pattern="[^@\s]+@[^@\s]+\.[^@\s]+">
                 </div>
                 <div class="form-row">
                     <label for="field-message">Wiadomość*</label>
-                    <textarea class="textity" name="message" required data-error="Musisz wypełnić pole" id="field-message"
-                        pattern=".+"></textarea>
+                    <textarea class="textity" name="message" required data-error="Musisz wypełnić pole" id="field-message" pattern=".+"></textarea>
                 </div>
                 <div class="form-row" style="display: none">
                     <label class="checkbox-cnt">
-                        <input type="checkbox" required data-error="Musisz wypełnić pole" name="regulation" checked="checked" >
+                        <input type="checkbox" required data-error="Musisz wypełnić pole" name="regulation" checked="checked">
                         <i class="state" aria-hidden="true"></i>
                     </label>
 

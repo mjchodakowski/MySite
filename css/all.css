@@ -1,0 +1,57 @@
+#TitleOmnie{
+
+  font-size: 40px;
+  text-align: right;
+  color: rgba(255, 255, 255, 0.364);
+  word-spacing: -5px;
+  margin-bottom: -10px;
+  margin-bottom: 20px;
+}
+
+
+
+.divomnie{
+margin: 25px;
+
+}
+
+
+.imgomnie{
+width: 90%;
+height: 90%;
+opacity:0.3;
+
+
+
+margin-top: auto;
+margin-bottom: auto;
+}
+
+
+.titlePomnie{
+  font-size: 20px;
+  text-align: center;
+  color:rgba(247, 247, 247, 0.453);
+  padding-top: 8px;
+  text-transform:uppercase;
+
+}
+
+
+.opisOmnie{
+
+  font-size: 17px;
+  color:rgba(247, 247, 247, 0.261);
+
+}
+
+.omnieOpen{
+width: 80%;
+min-height: 100px;
+}
+
+.omnieClose{
+width: 19%;
+float: right;
+}
+
