@@ -2,6 +2,7 @@
 <html lang="pl">
 
 <head>
+    <link rel="shortcut icon" href="/favicon.ico">;
     <meta charset="UTF-8" />
     <title>Moje Porfolio</title>
     <link rel="stylesheet" href="css/all.css">
