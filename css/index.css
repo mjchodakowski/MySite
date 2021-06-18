@@ -11,6 +11,13 @@ scroll-behavior: smooth;
 z-index: -1;
 }
 
+
+#foot > a {
+  color: white;
+  font-size: 1px;
+
+}
+
 .titleIMG{
   margin-left: 40%;
 }

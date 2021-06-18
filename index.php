@@ -228,7 +228,9 @@
                 <div class="foots">
                     <div id="contactText">Michał Chodakowski</br>
                         <i class="fa fa-phone fa-x2"></i> tel. +48 790 609 315</br>
-                        <i class="fa fa-envelope-o fa-x2"></i><a style="text-decoration: none;" href="mailto:mjchodakowski@gmail.com?subject=Kontakt%20strona%20">mjchodakowski@gmail.com</a></br>
+                        <i class="fa fa-envelope-o fa-x2"></i><a  href="mailto:kontakt@michalchodakowski.pl" >kontakt@michalchodakowski.pl </a></br>
+                        <i class="fa fa-envelope-o fa-x2"></i><a  href="mailto:contact@michalchodakowski.pl" >contact@michalchodakowski.pl </a></br>
+                        <i class="fa fa-envelope-o fa-x2"></i><a  href="mailto:mjchodakowski@gmail.com ?subject=with%20site%20michalchodakowski.pl">mjchodakowski@gmail.com</a></br>
                     </div>
                 </div>
             </div>
@@ -236,8 +238,7 @@
         </div>
     </div>
     </div>
-    <div class="foot" style="color:white; text-align:right; font-size:10px; margin: 20px;">Copyright © 2021 Nazwa
-        użytkownika. All rights reserved. </div>
+    <div class="foot" style="color:white; text-align:right; font-size:10px; margin: 20px;">Copyright © 2021 Michał Chodakowski. All rights reserved. </div>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
     <script type="text/javascript" src="scripts/index.js"></script>

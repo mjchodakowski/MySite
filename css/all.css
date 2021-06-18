@@ -1,3 +1,16 @@
+#contactText > a {
+  color: white;
+  font-size: 15px;
+  text-decoration: none;
+  padding-left: 10px;
+  color: white; 
+  font-family: 'Courier New';
+  word-spacing: 5px;
+}
+
+
+
+
 #TitleOmnie{
 
   font-size: 40px;
