@@ -68,7 +68,7 @@
                     </div>
 
                     <div class="divomnie">
-                    <div class="omnieClose"><img class="imgomnie" src="child.png"></div>
+                    <div class="omnieClose"><img class="imgomnie" src="primaryschool.png"></div>
                         <div class="omnieOpen">
                             <div class="titlePomnie">POCZĄTKI EDUKACJI</div>
                             <div class="opisOmnie">Od samego początku interesowały mnie przedmioty ścisłe, w szczególności królowa nauk – matematyka. Poza tym zawsze fascynowała mnie astronomia i tajemnice kosmosu. Ten etap miał bardzo duży wpływ na dalsze życie. W gimnazjum rozpoczęła się moja przygoda z programowaniem i tworzeniem stron www. Pod tym linkiem zobaczysz jak wyglądała jedna z moich pierwszych stron. Miałem wtedy ok 15 lat, a na komputerach dominował „legendarny” Internet Explorer 6. Ileż on nerwów napsuł…
@@ -77,7 +77,7 @@
                     </div>
 
                     <div class="divomnie">
-                    <div class="omnieClose"><img class="imgomnie" src="child.png"></div>
+                    <div class="omnieClose"><img class="imgomnie" src="secendaryschool.png"></div>
                         <div class="omnieOpen">
                             <div class="titlePomnie">SZKOŁA ŚREDNIA</div>
                             <div class="opisOmnie">W liceum (2007-2010) dalej skupiałem się głównie na przedmiotach ścisłych. Poza tym udało mi się opanować język angielski na przyzwoitym poziomie. Dzięki czemu mogę teraz szukać rozwiązań problemów na
@@ -88,7 +88,7 @@
                     </div>
 
                     <div class="divomnie">
-                    <div class="omnieClose"><img class="imgomnie" src="child.png"></div>
+                    <div class="omnieClose"><img class="imgomnie" src="study.png"></div>
                         <div class="omnieOpen">
                             <div class="titlePomnie">STUDIA</div>
                             <div class="opisOmnie">Po szkole średniej przyszła pora na studia. Co studiowałem? Oczywiście informatykę, na Uniwersytecie Marii Curie-Skłodowskiej w Lublinie. Moje studiowanie trwało 3 lata
