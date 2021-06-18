@@ -76,11 +76,8 @@ a {
 	border-top: 1px solid #f7f7f7;
 }
 
-/* Header Style */
 .codrops-top {
 	text-transform: uppercase;
-	z-index: 9999;
-	position: relative;
 	height: 10px;
 }
 
@@ -97,20 +94,19 @@ a {
 	margin:15px;
 	color:rgb(29, 29, 29);
 	background:#555656;
-	padding:10px 20px;
+	padding:10px 15px;
 	font-size:11px;
 	text-decoration:none;
-	text-transform:uppercase;
 	letter-spacing: 1px;
-	display: inline-block;
 }
 
 .codrops-top a:hover {
 	transition: 0.5s;
+	font-size:12px;
 	border:none;
 	background:#606161;
 	color:rgb(255, 254, 254);
-	padding:15px 20px;
+	padding:15px 15px;
 }
 
 .codrops-top span.right {

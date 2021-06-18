@@ -2,9 +2,9 @@
 <html lang="pl">
 
 <head>
-    <link rel="shortcut icon" href="/favicon.ico">;
+    <link rel="shortcut icon" href="/favicon.ico">
     <meta charset="UTF-8" />
-    <title>Moje Porfolio</title>
+    <title>Porfolio</title>
     <link rel="stylesheet" href="css/all.css">
     <link rel="stylesheet" href="css/index_mobile.css">
     <link rel="stylesheet" href="css/index.css">
@@ -13,16 +13,13 @@
     <script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
     <script type="text/javascript" src="https://s.electerious.com/basicScroll/dist/basicScroll.min.js"></script>
     <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <link href='https://fonts.googleapis.com/css?family=Oswald:300' rel='stylesheet' type='text/css'>
 </head>
 
 <body>
-    <link href='https://fonts.googleapis.com/css?family=Oswald:300' rel='stylesheet' type='text/css'>
-
     <div id="parallax">
         <div class="title-color"></div>
         <img class="scene" data-modifier="30" src="parallax\bud1.jpg">
-
-
         <div id="test" class="scene" data-modifier="0" style="--translateY:0px;">
             <div class="titleIMG">
                 <div id="title"></div>
