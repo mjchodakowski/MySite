@@ -55,7 +55,8 @@
                         <div class="omnieClose"><img class="imgomnie" src="child.png"></div>
                         <div class="omnieOpen">
                             <div class="titlePomnie">narodziny</div>
-                            <div class="opisOmnie">Pewnego sierpniowego popołudnia 1991 roku, gdy internet w Polsce dopiero powstawał, przyszedł na świat pewien człowiek. Byłem nim ja…</div>
+                            <div class="opisOmnie">Pewnego styczniowego ranka w 1995 roku gdy języki tj. Java oraz PHP dopiero powstawały  a internet w Polsce raczkował przyszedł pewien człowiek. 
+                            Byłem nim ja..</div>
                         </div>
                     </div>
 
@@ -63,7 +64,7 @@
                     <div class="omnieClose"><img class="imgomnie" src="home.png"></div>
                         <div class="omnieOpen">
                             <div class="titlePomnie">DORASTAŁEM TUTAJ…</div>
-                            <div class="opisOmnie">Dorastałem na wschodzie Polski, w małej miejscowości na Lubelszczyźnie, która nazywa się Opole Lubelskie. W której zresztą nadal mieszkam i pracuję.</div>
+                            <div class="opisOmnie">Urodziłem się oraz dorastałem w mieście w którym w tym czasie liczyło niespełna 250 tyś mieszkańców a nazywa się Sosnowiec w którym nadal mieszkam. </div>
                         </div>
                     </div>
 
@@ -71,7 +72,8 @@
                     <div class="omnieClose"><img class="imgomnie" src="primaryschool.png"></div>
                         <div class="omnieOpen">
                             <div class="titlePomnie">POCZĄTKI EDUKACJI</div>
-                            <div class="opisOmnie">Od samego początku interesowały mnie przedmioty ścisłe, w szczególności królowa nauk – matematyka. Poza tym zawsze fascynowała mnie astronomia i tajemnice kosmosu. Ten etap miał bardzo duży wpływ na dalsze życie. W gimnazjum rozpoczęła się moja przygoda z programowaniem i tworzeniem stron www. Pod tym linkiem zobaczysz jak wyglądała jedna z moich pierwszych stron. Miałem wtedy ok 15 lat, a na komputerach dominował „legendarny” Internet Explorer 6. Ileż on nerwów napsuł…
+                            <div class="opisOmnie">Od samego początku interesowały mnie przedmioty ścisłe. Na matematykę, fizykę, informatykę zawsze znalazłem czas po zajęciach szkolnych.
+                             Sport także nie był mi obcy, uczestniczyłem oraz zdobywałem wiele miejsc w międzyszkolnych olimpiadach w lekkoatletyce. 
                             </div>
                         </div>
                     </div>
@@ -80,9 +82,9 @@
                     <div class="omnieClose"><img class="imgomnie" src="secendaryschool.png"></div>
                         <div class="omnieOpen">
                             <div class="titlePomnie">SZKOŁA ŚREDNIA</div>
-                            <div class="opisOmnie">W liceum (2007-2010) dalej skupiałem się głównie na przedmiotach ścisłych. Poza tym udało mi się opanować język angielski na przyzwoitym poziomie. Dzięki czemu mogę teraz szukać rozwiązań problemów na
-                                Stack Overflow i współpracować z osobami z zagranicy.A co się działo w informatyce? Ciągle podnosiłem swoje umiejętności programowania, głównie w PHP. Dodatkowo, od początku liceum, zacząłem zdobywać bezcenne doświadczenie.
-                                Nie zawsze współpraca przebiegała idealnie, ale doświadczenia te procentują teraz…
+                            <div class="opisOmnie">W liceum skupiałem dalej się rozwijaniu swojej pasji oraz nauce przedmiotów ścisłych. 
+                            Ciągle podnosiłem swoje umiejętności programowania, głównie w C/C++. Dodatkowo, od początku liceum, zacząłem zdobywać bezcenne doświadczenie w swoich prywatnych projektach. 
+                            Nie zawsze praca przebiegała idealnie, ale doświadczenia te zaprocentowały już teraz… 
                             </div>
                         </div>
                     </div>
@@ -91,9 +93,11 @@
                     <div class="omnieClose"><img class="imgomnie" src="study.png"></div>
                         <div class="omnieOpen">
                             <div class="titlePomnie">STUDIA</div>
-                            <div class="opisOmnie">Po szkole średniej przyszła pora na studia. Co studiowałem? Oczywiście informatykę, na Uniwersytecie Marii Curie-Skłodowskiej w Lublinie. Moje studiowanie trwało 3 lata
-                                i zostało zwieńczone udaną obroną pracy licencjackiej w 2013 roku. Tematem mojej pracy była „Aplikacja wspomagająca organizację pracy w przedsiębiorstwie”. Czy uważam to za stracony czas?
-                                Na pewno nie. Poza zdobytą wiedzą studia to pewne doświadczenia, które kształtują charakter i osobowość.</div>
+                            <div class="opisOmnie">
+                            Po szkole średniej przyszła pora na studia trudny wybór w spełnieniu wszystkich moich oczekiwań i zainteresowań.  Postawiłem na jedną kartę i wybrałem się na kierunek Informatyki na
+                             <img style="height: 40px; float:left; margin:5px;" src="wimii.png">
+                              Wydział Informatyki i Mechaniki w Częstochowie. </br>Tematem moje pracy dyplomowej było Opracowanie narzędzia do administracji systemem Linux 
+                             z poziomu przeglądarki internetowej. (ang. Development of the Internet browser’s level management tool for the Linux system) </div>
                         </div>
                     </div>
                 </div>
@@ -168,21 +172,40 @@
         <div id="projects" class="rct">
             <div id="wykształcenieID" class="title">Wykształcenie</div>
             <div class="text">
-                <ul>
-                    <li>Politechnika Czestochowaska, Wydział Inżynieri Mechanicznej i
-                        Informatyki studia magisterskie o kierunku Informatyki i specjalizacji //2020r - ?</li>
-                    <li>Politechnika Czestochowaska, Wydział Inżynieri Mechanicznej i
+            <div class="omnieClose"><img class="imgomnie" style="opacity:1;" src="wimii.png"></div>
+
+                <ul>                
+                    <li> <div class="GalleryLinkHobby"> 2015 r.  -  2019 r. </div> Politechnika Czestochowaska, Wydział Inżynieri Mechanicznej i
                         Informatyki studia Inzynierskie o kierunku Informatyki i specjalizacji
-                        Sieci komputertowe // 2015r -2019r </li>
+                        Sieci komputertowe </li>
                 </ul>
             </div>
         </div>
 
         <div id="cert" class="rct">
-            <div id="hobbyID" class="title">Certyfikaty</div>
-            <div class="text">Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                Praesent eu turpis
-                orci.
+            <div id="hobbyID" class="title">Moje Hobby</div>
+            <div class="text">
+            <ul>
+            <li>Fotografia <a href="gallery/index.html" class="GalleryLinkHobby">GALERIA ZDJEĆ</a></li> 
+            <li> Podróze </li>
+            <li> Książki</li>
+                <ul> 
+                    <li>Kryminał <div style="font-size:0.9em; color:bisque;">Remigiusz Mróz</div></li>
+                    <li>Fantastyka <div style="font-size:0.9em;color:bisque;">George R.R. Martin, Andzej, Sapkowski, J.K. Rowling, Arthur Ignatius Conan Doyle</div></li>
+                    <li>Literatura faktu <div style="font-size:0.9em;color:bisque;">Timothy Peake</div></li>
+                </ul>
+            <li> Sport</li>
+                <ul> 
+                    <li>Kolarstwo</li>
+                    <li>Sporty wodne</li>
+                </ul>
+            
+            <li>Technologia</li>
+            <ul> 
+                    <li>Nowinki Technologiczne</li>
+                    <li>Majsterkowanie</li>
+                </ul>
+            </ul>
             </div>
         </div>
         <div style="clear:both"></div>
