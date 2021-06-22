@@ -29,7 +29,7 @@
                 <a href="#experience" class="btn">Doświadczenie i projekty</a>
                 <a href="#cert" class="btn">Hobby</a>
                 <a href="gallery/index.html" class="btn">Galeria</a>
-                <a href="cv/_pl__Curriculum_Vitae_MichalChodakowski.pdf" class="btn" style="background:#808080;">Curriculum vitae</a>
+                <a href="cv.html" class="btn" style="background:#808080;">Curriculum vitae</a>
                 <a href="#contact" class="btn">Kontakt</a>
             </div>
 
@@ -45,9 +45,6 @@
 
 
         <div id="sterted" style="margin-top: 50px;" class="rctmain">
-            <img src="1css/my.png" id="1myimage" alt="TitlePhoto">
-
-
             <div id="startedID_Other">
                 <div id="TitleOmnie">poznaj moją krotką historię</div>
                 <div style="text-indent: 20px;">
