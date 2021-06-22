@@ -25,10 +25,11 @@
                 <div id="title"></div>
             </div>
             <div id="menu">
-                <a href="#sterted" class="btn">Poznaj moją krotką historię</a>
+                <a href="#sterted" class="btn">Poznaj moją historię</a>
                 <a href="#experience" class="btn">Doświadczenie i projekty</a>
                 <a href="#cert" class="btn">Hobby</a>
                 <a href="gallery/index.html" class="btn">Galeria</a>
+                <a href="cv/_pl__Curriculum_Vitae_MichalChodakowski.pdf" class="btn" style="background:#808080;">Curriculum vitae</a>
                 <a href="#contact" class="btn">Kontakt</a>
             </div>
 

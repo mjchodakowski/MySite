@@ -155,8 +155,8 @@ a {
 
 .loadmore {
 	padding: 10px;
-	background: #ddd;
-	color: #fff;
+	background: #666;
+	color: rgb(0, 0, 0);
 	text-transform: uppercase;
 	letter-spacing: 3px;
 	font-weight: 700;
