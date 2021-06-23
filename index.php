@@ -25,11 +25,11 @@
                 <div id="title"></div>
             </div>
             <div id="menu">
-                <a href="#sterted" class="btn">Poznaj moją historię</a>
-                <a href="#experience" class="btn">Doświadczenie i projekty</a>
-                <a href="#cert" class="btn">Hobby</a>
+                <a href="#sterted" class="btn mobilehide">Poznaj moją historię</a>
+                <a href="#experience" class="btn mobilehide">Doświadczenie i projekty</a>
+                <a href="#cert" class="btn mobilehide">Hobby</a>
                 <a href="gallery/index.html" class="btn">Galeria</a>
-                <a href="cv.html" class="btn" style="background:#808080;">Curriculum vitae</a>
+                <a href="cv.html" class="btn mobilehide" style="background:#808080;">Curriculum vitae</a>
                 <a href="#contact" class="btn">Kontakt</a>
             </div>
 

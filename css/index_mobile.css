@@ -13,6 +13,12 @@ scroll-behavior: smooth;
 z-index: -1;
 }
 
+.mobilehide{
+  display: none;
+
+
+}
+
 .title-color{
   background-color: rgba(189, 205, 250, 0.713);
 }
