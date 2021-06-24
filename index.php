@@ -39,7 +39,7 @@
         </div>
 
 
-        <div class="TopA" id="button">
+        <div class="TopA mobilehide" id="button">
             <img src="loga/accros.png" style="transform:rotate(180deg);" width="60" height="60">
         </div>
 
@@ -176,6 +176,9 @@
                     <li> <div class="GalleryLinkHobby"> 2015 r.  -  2019 r. </div> Politechnika Czestochowaska, Wydział Inżynieri Mechanicznej i
                         Informatyki studia Inzynierskie o kierunku Informatyki i specjalizacji
                         Sieci komputertowe </li>
+
+                        
+
                 </ul>
             </div>
         </div>
@@ -208,6 +211,9 @@
         </div>
         <div style="clear:both"></div>
 
+
+
+        
 
         <div id="contact" class="rct">
             <div id="contactID" class="title">Bądźmy w kontakcie</div>
