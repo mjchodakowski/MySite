@@ -1,3 +1,7 @@
+
+
+
+
 <!DOCTYPE html>
 <html lang="pl">
 
@@ -38,6 +42,29 @@
             </div>
         </div>
 
+
+        <?php    
+        
+    if(!$_COOKIE['michalchodakowski']=="1")
+    {
+        $plik="licz.txt";
+        //odczytujemy aktualną wartość z pliku
+        $file=fopen($plik, "r");
+        flock($file, 1);
+        $liczba=fgets($file, 16);
+        flock($file, 3);
+        fclose($file);
+        $liczba++; //zwiększamy o 1
+        //zapisujemy nową wartość licznika
+        $file=fopen($plik, "w");
+        flock($file, 2);
+        fwrite($file, $liczba++);
+        flock($file, 3);
+        fclose($file); 
+        setcookie("michalchodakowski","1");
+        //ob_end_flush();
+    }
+?>
 
         <div class="TopA mobilehide" id="button">
             <img src="loga/accros.png" style="transform:rotate(180deg);" width="60" height="60">
@@ -176,7 +203,7 @@
                     <li> <div class="GalleryLinkHobby"> 2015 r.  -  2019 r. </div> Politechnika Czestochowaska, Wydział Inżynieri Mechanicznej i
                         Informatyki studia Inzynierskie o kierunku Informatyki i specjalizacji
                         Sieci komputertowe </li>
-
+                       
                         
 
                 </ul>
@@ -265,7 +292,7 @@
         </div>
     </div>
     </div>
-    <div class="foot" style="color:white; text-align:right; font-size:10px; margin: 20px;">Copyright © 2021 Michał Chodakowski. All rights reserved. </div>
+    <div class="foot" style="color:white; text-align:right; font-size:10px; margin: 20px;">Copyright © 2021 Michał Chodakowski. All rights reserved.  -  <?php include ('licz.txt'); ?> </div>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
     <script type="text/javascript" src="scripts/index.js"></script>
