@@ -25,17 +25,33 @@ session_start();
             width: 100%;
 
         }
-
+        @media only screen and (max-width : 501px) {
         .div {
-            width: 40%;
+            width: 90%;
             background-color: rgb(240, 240, 240);
             border-radius: 10px;
             margin-top: 10%;
             margin-left: auto;
             margin-right: auto;
-            padding: 20px;
+            padding: 5%;
 
         }
+    }
+
+    @media screen and (min-width: 501px) {
+        .div {
+            width: 90%;
+            background-color: rgb(240, 240, 240);
+            border-radius: 10px;
+            margin-top: 10%;
+            margin-left: auto;
+            margin-right: auto;
+            padding: 5%;
+
+        }
+
+    }
+
 
         .div2 {
             width: 95%;
@@ -43,7 +59,7 @@ session_start();
             border-radius: 10px;
             margin-left: auto;
             margin-right: auto;
-            padding: 10px;
+            padding: 1%;
 
         }
 
@@ -67,7 +83,7 @@ session_start();
         }
 
         .card-body {
-            margin: 30px;
+            margin: 25px;
             border: solid 1px black;
             border-radius: 10px;
             color: rgb(157, 157, 157);

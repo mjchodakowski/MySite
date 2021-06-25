@@ -14,4 +14,4 @@ if(!empty($_POST['login'])  && !empty($_POST['password']))
     }
 }
 
-header('Location: http://127.0.0.1/site/sendfile/index.php');
+header('Location: index.php');
