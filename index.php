@@ -44,7 +44,7 @@
 
 
         <?php    
-        
+
     if(!$_COOKIE['michalchodakowski']=="1")
     {
         $plik="licz.txt";
@@ -280,8 +280,9 @@
         <div>
             <div id="foot">
                 <div class="foots">
-                    <div id="contactText">Michał Chodakowski</br>
+                    <div id="contactText">Michał Chodakowski</br></br>
                         <i class="fa fa-phone fa-x2"></i> tel. +48 790 609 315</br>
+                        <a href='https://github.com/mjchodakowski' id="contactText">https://github.com/mjchodakowski</a></br>
                         <i class="fa fa-envelope-o fa-x2"></i><a  href="mailto:kontakt@michalchodakowski.pl" >kontakt@michalchodakowski.pl </a></br>
                         <i class="fa fa-envelope-o fa-x2"></i><a  href="mailto:contact@michalchodakowski.pl" >contact@michalchodakowski.pl </a></br>
                         <i class="fa fa-envelope-o fa-x2"></i><a  href="mailto:mjchodakowski@gmail.com ?subject=with%20site%20michalchodakowski.pl">mjchodakowski@gmail.com</a></br>
