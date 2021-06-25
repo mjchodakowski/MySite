@@ -25,4 +25,7 @@ if(isset($_FILES['image'])){
      else{
      print_r($errors);
      }
- }
+
+
+
+}
