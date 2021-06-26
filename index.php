@@ -152,13 +152,12 @@
                 <div id="csharp" class="experienceDate_">
                     <div class="csharpTitle">Projekt przy użyciu języka C#</div>
                     <div style="max-width:100%">
-                        <div id="csharpExample"> Celem niniejszej projektu było stworzenie narzedzia do administracji
+                        <div id=""> Celem niniejszej projektu było stworzenie narzedzia do administracji
                             systemem Linux z poziomu przegladarki
                             internetowej. </br> Głównym zadaniem jest zarzadzanie systemem Linux w kazdym mozliwym
                             miejscu, majac dostep tylko do łacza internetowego.
                             Opracowana aplikacjia została przy pomocy ASP.Net MVC wraz z framworkami Entity Framework.
                         </div>
-                        <div id="imagecsharp2"></div>
                     </div>
                     <div style="clear:both"></div>
                 </div>
@@ -247,7 +246,7 @@
 
             <form class="form" id="contactForm" method="post" action="send-script.php">
                 <div class="form-row">
-                    <label for="field-name">Name*</label>
+                    <label for="field-name">Tytuł*</label>
                     <input class="textity" type="text" name="name" required id="field-name" data-error="Wypełnij to pole" pattern="[a-zA-ZąĄććęęłŁńŃóÓśŚżŻŹŹ ]+">
                 </div>
                 <div class="form-row">
