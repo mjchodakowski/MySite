@@ -1,7 +1,3 @@
-
-
-
-
 <!DOCTYPE html>
 <html lang="pl">
 
@@ -16,7 +12,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
     <script type="text/javascript" src="https://s.electerious.com/basicScroll/dist/basicScroll.min.js"></script>
-    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+    <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet"
+        integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
     <link href='https://fonts.googleapis.com/css?family=Oswald:300' rel='stylesheet' type='text/css'>
 </head>
 
@@ -80,49 +77,61 @@
                         <div class="omnieClose"><img class="imgomnie" src="child.png"></div>
                         <div class="omnieOpen">
                             <div class="titlePomnie">narodziny</div>
-                            <div class="opisOmnie">Pewnego styczniowego ranka w 1995 roku gdy języki tj. Java oraz PHP dopiero powstawały  a internet w Polsce raczkował przyszedł pewien człowiek. 
-                            Byłem nim ja..</div>
+                            <div class="opisOmnie">Pewnego styczniowego ranka w 1995 roku gdy języki tj. Java oraz PHP
+                                dopiero powstawały a internet w Polsce raczkował przyszedł pewien człowiek.
+                                Byłem nim ja..</div>
                         </div>
                     </div>
 
                     <div class="divomnie">
-                    <div class="omnieClose"><img class="imgomnie" src="home.png"></div>
+                        <div class="omnieClose"><img class="imgomnie" src="home.png"></div>
                         <div class="omnieOpen">
                             <div class="titlePomnie">DORASTAŁEM TUTAJ…</div>
-                            <div class="opisOmnie">Urodziłem się oraz dorastałem w mieście w którym w tym czasie liczyło niespełna 250 tyś mieszkańców a nazywa się Sosnowiec w którym nadal mieszkam. </div>
+                            <div class="opisOmnie">Urodziłem się oraz dorastałem w mieście w którym w tym czasie liczyło
+                                niespełna 250 tyś mieszkańców a nazywa się Sosnowiec w którym nadal mieszkam. </div>
                         </div>
                     </div>
 
                     <div class="divomnie">
-                    <div class="omnieClose"><img class="imgomnie" src="primaryschool.png"></div>
+                        <div class="omnieClose"><img class="imgomnie" src="primaryschool.png"></div>
                         <div class="omnieOpen">
                             <div class="titlePomnie">POCZĄTKI EDUKACJI</div>
-                            <div class="opisOmnie">Od samego początku interesowały mnie przedmioty ścisłe. Na matematykę, fizykę, informatykę zawsze znalazłem czas po zajęciach szkolnych.
-                             Sport także nie był mi obcy, uczestniczyłem oraz zdobywałem wiele miejsc w międzyszkolnych olimpiadach w lekkoatletyce. 
+                            <div class="opisOmnie">Od samego początku interesowały mnie przedmioty ścisłe. Na
+                                matematykę, fizykę, informatykę zawsze znalazłem czas po zajęciach szkolnych.
+                                Sport także nie był mi obcy, uczestniczyłem oraz zdobywałem wiele miejsc w
+                                międzyszkolnych olimpiadach w lekkoatletyce.
                             </div>
                         </div>
                     </div>
 
                     <div class="divomnie">
-                    <div class="omnieClose"><img class="imgomnie" src="secendaryschool.png"></div>
+                        <div class="omnieClose"><img class="imgomnie" src="secendaryschool.png"></div>
                         <div class="omnieOpen">
                             <div class="titlePomnie">SZKOŁA ŚREDNIA</div>
-                            <div class="opisOmnie">W liceum skupiałem dalej się rozwijaniu swojej pasji oraz nauce przedmiotów ścisłych. 
-                            Ciągle podnosiłem swoje umiejętności programowania, głównie w C/C++. Dodatkowo, od początku liceum, zacząłem zdobywać bezcenne doświadczenie w swoich prywatnych projektach. 
-                            Nie zawsze praca przebiegała idealnie, ale doświadczenia te zaprocentowały już teraz… 
+                            <div class="opisOmnie">W liceum skupiałem dalej się rozwijaniu swojej pasji oraz nauce
+                                przedmiotów ścisłych.
+                                Ciągle podnosiłem swoje umiejętności programowania, głównie w C/C++. Dodatkowo, od
+                                początku liceum, zacząłem zdobywać bezcenne doświadczenie w swoich prywatnych
+                                projektach.
+                                Nie zawsze praca przebiegała idealnie, ale doświadczenia te zaprocentowały już teraz…
                             </div>
                         </div>
                     </div>
 
                     <div class="divomnie">
-                    <div class="omnieClose"><img class="imgomnie" src="study.png"></div>
+                        <div class="omnieClose"><img class="imgomnie" src="study.png"></div>
                         <div class="omnieOpen">
                             <div class="titlePomnie">STUDIA</div>
                             <div class="opisOmnie">
-                            Po szkole średniej przyszła pora na studia trudny wybór w spełnieniu wszystkich moich oczekiwań i zainteresowań.  Postawiłem na jedną kartę i wybrałem się na kierunek Informatyki na
-                             <img style="height: 40px; float:left; margin:5px;" src="wimii.png">
-                              Wydział Informatyki i Mechaniki w Częstochowie. </br>Tematem moje pracy dyplomowej było Opracowanie narzędzia do administracji systemem Linux 
-                             z poziomu przeglądarki internetowej. (ang. Development of the Internet browser’s level management tool for the Linux system) </div>
+                                Po szkole średniej przyszła pora na studia trudny wybór w spełnieniu wszystkich moich
+                                oczekiwań i zainteresowań. Postawiłem na jedną kartę i wybrałem się na kierunek
+                                Informatyki na
+                                <img style="height: 40px; float:left; margin:5px;" src="wimii.png">
+                                Wydział Informatyki i Mechaniki w Częstochowie. </br>Tematem moje pracy dyplomowej było
+                                Opracowanie narzędzia do administracji systemem Linux
+                                z poziomu przeglądarki internetowej. (ang. Development of the Internet browser’s level
+                                management tool for the Linux system)
+                            </div>
                         </div>
                     </div>
                 </div>
@@ -196,14 +205,17 @@
         <div id="projects" class="rct">
             <div id="wykształcenieID" class="title">Wykształcenie</div>
             <div class="text">
-            <div class="omnieClose"><img class="imgomnie" style="opacity:1;" src="wimii.png"></div>
+                <div class="omnieClose"><img class="imgomnie" style="opacity:1;" src="wimii.png"></div>
 
-                <ul>                
-                    <li> <div class="GalleryLinkHobby"> 2015 r.  -  2019 r. </div> Politechnika Czestochowaska, Wydział Inżynieri Mechanicznej i
+                <ul>
+                    <li>
+                        <div class="GalleryLinkHobby"> 2015 r. - 2019 r. </div> Politechnika Czestochowaska, Wydział
+                        Inżynieri Mechanicznej i
                         Informatyki studia Inzynierskie o kierunku Informatyki i specjalizacji
-                        Sieci komputertowe </li>
-                       
-                        
+                        Sieci komputertowe
+                    </li>
+
+
 
                 </ul>
             </div>
@@ -212,34 +224,34 @@
         <div id="cert" class="rct">
             <div id="hobbyID" class="title">Moje Hobby</div>
             <div class="text">
-            <ul>
-            <li>Fotografia <a href="gallery/index.html" class="GalleryLinkHobby">GALERIA ZDJEĆ</a></li> 
-            <li> Podróze </li>
-            <li> Książki</li>
-                <ul> 
-                    <li>Kryminał <div style="font-size:0.9em; color:bisque;">Remigiusz Mróz</div></li>
-                    <li>Fantastyka <div style="font-size:0.9em;color:bisque;">George R.R. Martin, Andzej, Sapkowski, J.K. Rowling, Arthur Ignatius Conan Doyle</div></li>
-                    <li>Literatura faktu <div style="font-size:0.9em;color:bisque;">Timothy Peake</div></li>
+                <ul>
+                    <li>Fotografia <a href="gallery/index.html" class="GalleryLinkHobby">GALERIA ZDJEĆ</a></li>
+                    <li> Podróze </li>
+                    <li> Książki</li>
+                    <ul>
+                        <li>Kryminał <div style="font-size:0.9em; color:bisque;">Remigiusz Mróz</div>
+                        </li>
+                        <li>Fantastyka <div style="font-size:0.9em;color:bisque;">George R.R. Martin, Andzej, Sapkowski,
+                                J.K. Rowling, Arthur Ignatius Conan Doyle</div>
+                        </li>
+                        <li>Literatura faktu <div style="font-size:0.9em;color:bisque;">Timothy Peake</div>
+                        </li>
+                    </ul>
+                    <li> Sport</li>
+                    <ul>
+                        <li>Kolarstwo</li>
+                        <li>Sporty wodne</li>
+                    </ul>
+
+                    <li>Technologia</li>
+                    <ul>
+                        <li>Nowinki Technologiczne</li>
+                        <li>Majsterkowanie</li>
+                    </ul>
                 </ul>
-            <li> Sport</li>
-                <ul> 
-                    <li>Kolarstwo</li>
-                    <li>Sporty wodne</li>
-                </ul>
-            
-            <li>Technologia</li>
-            <ul> 
-                    <li>Nowinki Technologiczne</li>
-                    <li>Majsterkowanie</li>
-                </ul>
-            </ul>
             </div>
         </div>
         <div style="clear:both"></div>
-
-
-
-        
 
         <div id="contact" class="rct">
             <div id="contactID" class="title">Bądźmy w kontakcie</div>
@@ -247,19 +259,23 @@
             <form class="form" id="contactForm" method="post" action="send-script.php">
                 <div class="form-row">
                     <label for="field-name">Tytuł*</label>
-                    <input class="textity" type="text" name="name" required id="field-name" data-error="Wypełnij to pole" pattern="[a-zA-ZąĄććęęłŁńŃóÓśŚżŻŹŹ ]+">
+                    <input class="textity" type="text" name="name" required id="field-name"
+                        data-error="Wypełnij to pole" pattern="[a-zA-ZąĄććęęłŁńŃóÓśŚżŻŹŹ ]+">
                 </div>
                 <div class="form-row">
                     <label for="field-email">Adres e-mail*</label>
-                    <input class="textity" type="email" name="email" required id="field-email" data-error="Wpisz poprawny email" pattern="[^@\s]+@[^@\s]+\.[^@\s]+">
+                    <input class="textity" type="email" name="email" required id="field-email"
+                        data-error="Wpisz poprawny email" pattern="[^@\s]+@[^@\s]+\.[^@\s]+">
                 </div>
                 <div class="form-row">
                     <label for="field-message">Wiadomość*</label>
-                    <textarea class="textity" name="message" required data-error="Musisz wypełnić pole" id="field-message" pattern=".+"></textarea>
+                    <textarea class="textity" name="message" required data-error="Musisz wypełnić pole"
+                        id="field-message" pattern=".+"></textarea>
                 </div>
                 <div class="form-row" style="display: none">
                     <label class="checkbox-cnt">
-                        <input type="checkbox" required data-error="Musisz wypełnić pole" name="regulation" checked="checked">
+                        <input type="checkbox" required data-error="Musisz wypełnić pole" name="regulation"
+                            checked="checked">
                         <i class="state" aria-hidden="true"></i>
                     </label>
 
@@ -281,10 +297,14 @@
                 <div class="foots">
                     <div id="contactText">Michał Chodakowski</br></br>
                         <i class="fa fa-phone fa-x2"></i> tel. +48 790 609 315</br>
-                        <a href='https://github.com/mjchodakowski' id="contactText">https://github.com/mjchodakowski</a></br>
-                        <i class="fa fa-envelope-o fa-x2"></i><a  href="mailto:kontakt@michalchodakowski.pl" >kontakt@michalchodakowski.pl </a></br>
-                        <i class="fa fa-envelope-o fa-x2"></i><a  href="mailto:contact@michalchodakowski.pl" >contact@michalchodakowski.pl </a></br>
-                        <i class="fa fa-envelope-o fa-x2"></i><a  href="mailto:mjchodakowski@gmail.com ?subject=with%20site%20michalchodakowski.pl">mjchodakowski@gmail.com</a></br>
+                        <a href='https://github.com/mjchodakowski'
+                            id="contactText">https://github.com/mjchodakowski</a></br>
+                        <i class="fa fa-envelope-o fa-x2"></i><a
+                            href="mailto:kontakt@michalchodakowski.pl">kontakt@michalchodakowski.pl </a></br>
+                        <i class="fa fa-envelope-o fa-x2"></i><a
+                            href="mailto:contact@michalchodakowski.pl">contact@michalchodakowski.pl </a></br>
+                        <i class="fa fa-envelope-o fa-x2"></i><a
+                            href="mailto:mjchodakowski@gmail.com ?subject=with%20site%20michalchodakowski.pl">mjchodakowski@gmail.com</a></br>
                     </div>
                 </div>
             </div>
@@ -292,7 +312,8 @@
         </div>
     </div>
     </div>
-    <div class="foot" style="color:white; text-align:right; font-size:10px; margin: 20px;">Copyright © 2021 Michał Chodakowski. All rights reserved.  -  <?php include ('licz.txt'); ?> </div>
+    <div class="foot" style="color:white; text-align:right; font-size:10px; margin: 20px;">Copyright © 2021 Michał
+        Chodakowski. All rights reserved. - <?php include ('licz.txt'); ?> </div>
 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js"></script>
     <script type="text/javascript" src="scripts/index.js"></script>
