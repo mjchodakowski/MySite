@@ -30,7 +30,7 @@
                 <a href="#experience" class="btn mobilehide">Doświadczenie i projekty</a>
                 <a href="#cert" class="btn mobilehide">Hobby</a>
                 <a href="gallery/index.html" class="btn">Galeria</a>
-                <a href="cv.html" class="btn mobilehide" style="background:#808080;">Curriculum vitae</a>
+                <a href="cv.html" class="btn mobilehide" style="background:#808080; display:none;">Curriculum vitae</a>
                 <a href="#contact" class="btn">Kontakt</a>
             </div>
 
