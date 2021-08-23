@@ -1,4 +1,6 @@
-
+<?php
+session_start();
+?>
 
 
 
@@ -116,7 +118,28 @@
 </head>
 
 <body>
-    <div class="div">       
+    <?php if (empty($_SESSION['user'])) : ?>
+
+        <div class="div">
+            <div class="div2">
+
+        <form action='login.php' method="post">
+            <input type="text" class="form-control" id="exampleInputPassword1" style="margin: 10px; margin-left:auto; margin-right:auto;" placeholder="Podaj login" name="login" />
+            <input type="password" class="form-control" id="exampleInputPassword1" style="margin: 10px; margin-left:auto; margin-right:auto;" placeholder="Podaj hasło" name="password" />
+            <div style="text-align: right;"><input type="submit" style="min-width: 40%;" class="btn btn-primary submits" value="ZALOGUJ SIE" /></div>
+        </form>
+
+            </div>
+        </div>
+
+    <?php else : ?>
+
+
+        
+
+        <div class="div">
+            <p> Cześć, <?= $_SESSION['user'] ?>  <a href="logout.php">WYLOGUJ SIE </a></p>
+       
             <div class="div2">
 
                 <div class="table">
@@ -188,6 +211,7 @@
     });
 </script>
 
+<?php endif; ?>
 
 </body>
 
