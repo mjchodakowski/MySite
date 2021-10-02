@@ -87,8 +87,8 @@
                         <div class="omnieClose"><img class="imgomnie" src="home.png"></div>
                         <div class="omnieOpen">
                             <div class="titlePomnie">DORASTAŁEM TUTAJ…</div>
-                            <div class="opisOmnie">Urodziłem się oraz dorastałem w mieście w którym w tym czasie liczyło
-                                niespełna 250 tyś mieszkańców a nazywa się Sosnowiec w którym nadal mieszkam. </div>
+                            <div class="opisOmnie">Urodziłem się oraz dorastałem w mieście w które w tym czasie liczyło
+                                niespełna 250 tys. </div>
                         </div>
                     </div>
 
@@ -96,10 +96,10 @@
                         <div class="omnieClose"><img class="imgomnie" src="primaryschool.png"></div>
                         <div class="omnieOpen">
                             <div class="titlePomnie">POCZĄTKI EDUKACJI</div>
-                            <div class="opisOmnie">Od samego początku interesowały mnie przedmioty ścisłe. Na
+                            <div class="opisOmnie"> Zawsze  interesowały mnie przedmioty ścisłe. Na
                                 matematykę, fizykę, informatykę zawsze znalazłem czas po zajęciach szkolnych.
-                                Sport także nie był mi obcy, uczestniczyłem oraz zdobywałem wiele miejsc w
-                                międzyszkolnych olimpiadach w lekkoatletyce.
+                                Sport także nie był mi obcy, uczestniczyłem  w wielu 
+                                międzyszkolnych zawodach lekkoatletycznych.
                             </div>
                         </div>
                     </div>
@@ -111,9 +111,9 @@
                             <div class="opisOmnie">W liceum skupiałem dalej się rozwijaniu swojej pasji oraz nauce
                                 przedmiotów ścisłych.
                                 Ciągle podnosiłem swoje umiejętności programowania, głównie w C/C++. Dodatkowo, od
-                                początku liceum, zacząłem zdobywać bezcenne doświadczenie w swoich prywatnych
+                                początku liceum, zacząłem zdobywać  doświadczenie w swoich prywatnych
                                 projektach.
-                                Nie zawsze praca przebiegała idealnie, ale doświadczenia te zaprocentowały już teraz…
+                        
                             </div>
                         </div>
                     </div>
